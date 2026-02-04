@@ -4,7 +4,7 @@
 
 This repository documents my journey learning how to build privacy-preserving applications on **Polygon Miden**.
 
-The goal is to build an encrypted token system step-by-step while learning Miden architecture.
+This is my first repo, so pease bear with me lol
 
 ---
 
@@ -19,19 +19,7 @@ Miden is a zk-powered virtual machine that allows developers to build applicatio
 
 Think of it as building smart contracts where users can keep balances and transactions private.
 
----
-
-## 🎯 What You Will Learn
-
-By following this series, you will learn:
-
-- How Miden programs work
-- How to set up Miden CLI
-- How to create token logic
-- How privacy works in zk systems
-- How encrypted balances can be managed
-
----
+## Let's get into the guide
 
 ## 🧰 Prerequisites
 
@@ -56,11 +44,6 @@ miden-private-token/
 └── README.md        → Guide
 ```
 
----
-
-# 🚀 Day 1 — Environment Setup + Token Skeleton
-
----
 
 ## Step 1 — Install Rust
 
