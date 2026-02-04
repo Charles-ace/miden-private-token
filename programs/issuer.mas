@@ -1,0 +1,5 @@
+begin
+    push.1001
+    push.100
+    dup.1
+end
