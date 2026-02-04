@@ -157,3 +157,5 @@ You now have:
 - Project scaffold created
 - Token issuer logic initialized
 - Wallet configuration created
+
+If you found this guide helpful,please do well to star 
